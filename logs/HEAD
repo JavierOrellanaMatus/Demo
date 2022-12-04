@@ -1,0 +1,27 @@
+0000000000000000000000000000000000000000 972247094bbc1d05ebfc370720e2ff239af01f12 Javier Orellana <javier.orellana.matus@outlook.com> 1668960649 -0300	
+972247094bbc1d05ebfc370720e2ff239af01f12 c9800cfcf45148b1c310430a2c331cfdaf88f033 Javier Orellana <javier.orellana.matus@outlook.com> 1668992115 -0300	commit: primer commit
+c9800cfcf45148b1c310430a2c331cfdaf88f033 c9800cfcf45148b1c310430a2c331cfdaf88f033 Javier Orellana <javier.orellana.matus@outlook.com> 1669172287 -0300	checkout: moving from main to develop
+c9800cfcf45148b1c310430a2c331cfdaf88f033 93bbd10742f311d82ad069c7155e00fe9b784f6b JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669461413 -0300	commit: Primer commit
+93bbd10742f311d82ad069c7155e00fe9b784f6b 0000000000000000000000000000000000000000 JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669461888 -0300	Branch: renamed refs/heads/develop to refs/heads/develop
+93bbd10742f311d82ad069c7155e00fe9b784f6b 93bbd10742f311d82ad069c7155e00fe9b784f6b JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669461888 -0300	Branch: renamed refs/heads/develop to refs/heads/develop
+93bbd10742f311d82ad069c7155e00fe9b784f6b 3a752b8a219671d82349c64754c149a358663342 JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669462938 -0300	commit: Segundo commit
+3a752b8a219671d82349c64754c149a358663342 3a752b8a219671d82349c64754c149a358663342 JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669463185 -0300	checkout: moving from develop to feature/feature-rama_01
+3a752b8a219671d82349c64754c149a358663342 3a752b8a219671d82349c64754c149a358663342 JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669463435 -0300	checkout: moving from feature/feature-rama_01 to develop
+3a752b8a219671d82349c64754c149a358663342 3a752b8a219671d82349c64754c149a358663342 JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669464795 -0300	checkout: moving from develop to develop
+3a752b8a219671d82349c64754c149a358663342 c9800cfcf45148b1c310430a2c331cfdaf88f033 JavierOrellana <javier.orellana.matus@outlook.com> 1669468043 -0300	checkout: moving from develop to main
+c9800cfcf45148b1c310430a2c331cfdaf88f033 3a752b8a219671d82349c64754c149a358663342 JavierOrellana <javier.orellana.matus@outlook.com> 1669468091 -0300	checkout: moving from main to develop
+3a752b8a219671d82349c64754c149a358663342 a5543343df4cb03bedae9e95f7107decc5e2aeac JavierOrellana <javier.orellana.matus@outlook.com> 1669470032 -0300	commit: tercer commit
+a5543343df4cb03bedae9e95f7107decc5e2aeac a5543343df4cb03bedae9e95f7107decc5e2aeac JavierOrellana <javier.orellana.matus@outlook.com> 1669470138 -0300	checkout: moving from develop to develop
+a5543343df4cb03bedae9e95f7107decc5e2aeac 3a752b8a219671d82349c64754c149a358663342 JavierOrellana <javier.orellana.matus@outlook.com> 1669943737 -0300	checkout: moving from develop to feature/feature-rama_01
+3a752b8a219671d82349c64754c149a358663342 22707cb5a368b5879ae9bb14699c50dfb5785d48 JavierOrellana <javier.orellana.matus@outlook.com> 1669944001 -0300	commit: cambio en mensaje
+22707cb5a368b5879ae9bb14699c50dfb5785d48 a5543343df4cb03bedae9e95f7107decc5e2aeac JavierOrellana <javier.orellana.matus@outlook.com> 1669944586 -0300	checkout: moving from feature/feature-rama_01 to develop
+a5543343df4cb03bedae9e95f7107decc5e2aeac 22707cb5a368b5879ae9bb14699c50dfb5785d48 JavierOrellana <javier.orellana.matus@outlook.com> 1669944945 -0300	checkout: moving from develop to feature/feature-rama_01
+22707cb5a368b5879ae9bb14699c50dfb5785d48 c9800cfcf45148b1c310430a2c331cfdaf88f033 JavierOrellana <javier.orellana.matus@outlook.com> 1670113152 -0300	checkout: moving from feature/feature-rama_01 to main
+c9800cfcf45148b1c310430a2c331cfdaf88f033 f2b9dddf7826dcce8eb3041ed043091135f13730 JavierOrellana <javier.orellana.matus@outlook.com> 1670120805 -0300	pull origin main: Fast-forward
+f2b9dddf7826dcce8eb3041ed043091135f13730 a5543343df4cb03bedae9e95f7107decc5e2aeac JavierOrellana <javier.orellana.matus@outlook.com> 1670121912 -0300	checkout: moving from main to develop
+a5543343df4cb03bedae9e95f7107decc5e2aeac cc27d8bf639ea10933cdd37e4ce03c5969a55436 JavierOrellana <javier.orellana.matus@outlook.com> 1670122440 -0300	merge feature/feature-rama_01: Merge made by the 'ort' strategy.
+cc27d8bf639ea10933cdd37e4ce03c5969a55436 0000000000000000000000000000000000000000 JavierOrellana <javier.orellana.matus@outlook.com> 1670124084 -0300	Branch: renamed refs/heads/develop to refs/heads/release
+0000000000000000000000000000000000000000 cc27d8bf639ea10933cdd37e4ce03c5969a55436 JavierOrellana <javier.orellana.matus@outlook.com> 1670124084 -0300	Branch: renamed refs/heads/develop to refs/heads/release
+cc27d8bf639ea10933cdd37e4ce03c5969a55436 cc27d8bf639ea10933cdd37e4ce03c5969a55436 JavierOrellana <javier.orellana.matus@outlook.com> 1670124102 -0300	checkout: moving from release to release
+cc27d8bf639ea10933cdd37e4ce03c5969a55436 0000000000000000000000000000000000000000 JavierOrellana <javier.orellana.matus@outlook.com> 1670124229 -0300	Branch: renamed refs/heads/release to refs/heads/master
+0000000000000000000000000000000000000000 cc27d8bf639ea10933cdd37e4ce03c5969a55436 JavierOrellana <javier.orellana.matus@outlook.com> 1670124229 -0300	Branch: renamed refs/heads/release to refs/heads/master

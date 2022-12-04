@@ -1,0 +1,24 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+	precomposeunicode = true
+	bare = false
+[remote "origin"]
+	url = git@github.com:JavierOrellanaMatus/Demo
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[gitflow "branch"]
+	master = main
+	develop = develop
+[gitflow "prefix"]
+	feature = feature/
+	release = release/
+	hotfix = hotfix/
+	support = bugfix/
+	versiontag = v
+[remote "develop"]
+	url = https://github.com/JavierOrellanaMatus/Demo.git
+	fetch = +refs/heads/*:refs/remotes/develop/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/develop

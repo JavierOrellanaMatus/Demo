@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 c9800cfcf45148b1c310430a2c331cfdaf88f033 Javier Orellana <javier.orellana.matus@outlook.com> 1669172287 -0300	branch: Created from main
+c9800cfcf45148b1c310430a2c331cfdaf88f033 93bbd10742f311d82ad069c7155e00fe9b784f6b JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669461413 -0300	commit: Primer commit
+93bbd10742f311d82ad069c7155e00fe9b784f6b 93bbd10742f311d82ad069c7155e00fe9b784f6b JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669461888 -0300	Branch: renamed refs/heads/develop to refs/heads/develop
+93bbd10742f311d82ad069c7155e00fe9b784f6b 3a752b8a219671d82349c64754c149a358663342 JavierOrellanaMatus <javier.orellana.matus@outlook.com> 1669462938 -0300	commit: Segundo commit
+3a752b8a219671d82349c64754c149a358663342 a5543343df4cb03bedae9e95f7107decc5e2aeac JavierOrellana <javier.orellana.matus@outlook.com> 1669470032 -0300	commit: tercer commit
+a5543343df4cb03bedae9e95f7107decc5e2aeac cc27d8bf639ea10933cdd37e4ce03c5969a55436 JavierOrellana <javier.orellana.matus@outlook.com> 1670122440 -0300	merge feature/feature-rama_01: Merge made by the 'ort' strategy.
+cc27d8bf639ea10933cdd37e4ce03c5969a55436 cc27d8bf639ea10933cdd37e4ce03c5969a55436 JavierOrellana <javier.orellana.matus@outlook.com> 1670124084 -0300	Branch: renamed refs/heads/develop to refs/heads/release
+cc27d8bf639ea10933cdd37e4ce03c5969a55436 cc27d8bf639ea10933cdd37e4ce03c5969a55436 JavierOrellana <javier.orellana.matus@outlook.com> 1670124229 -0300	Branch: renamed refs/heads/release to refs/heads/master
